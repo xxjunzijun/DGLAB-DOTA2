@@ -6,7 +6,7 @@
 
     1.本地准备好python环境
     2.运行setup.py安装依赖
-    3.运行main.py，扫码链接郊狼
+    3.运行main.py，扫码链接郊狼(需要手机和电脑连同一局域网下)
     3.把gamestate_integration.cfg文件放入dota2路径的文件夹里: ...steam\steamapps\common\dota 2 beta\game\dota\cfg\gamestate_integration\ 下,如果没有这个文件夹则创建
     4.启动dota2,启动项带-gamestateintegration
 
