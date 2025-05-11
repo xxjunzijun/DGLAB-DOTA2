@@ -1,0 +1,3 @@
+qrcode==8.2
+aiohttp==3.11.18
+pydglab_ws==1.1.0
